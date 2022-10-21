@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my own game in Unreal Engine 5
 
-- 🌱 I’m currently learning **C++, UE5, Unity**
+- 🌱 I’m currently learning **C++, UE5**
 
 - 💬 Ask me about **anything you want**
 
