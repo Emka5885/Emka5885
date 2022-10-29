@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Emilia</h1>
 <h3 align="center">I am 17 years old and I love programming. :heart:</h3>
 
-- 🔭 I’m currently working on my own game in Unreal Engine 5
+- 🔭 I’m currently working on game in Unreal Engine 5
 
 - 🌱 I’m currently learning **C++, UE5**
 
