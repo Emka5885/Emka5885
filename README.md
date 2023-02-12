@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Emilia</h1>
 <h3 align="center">I am 17 years old and I love programming. :heart:</h3>
 
-- 🌱 I’m currently learning **C++, OpenGL**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **anything you want**
 
