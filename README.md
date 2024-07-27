@@ -15,7 +15,7 @@
 <h3 align="left">🌐 My social media:</h3>
 <p align="left">
 &emsp; &nbsp; <a href="https://www.linkedin.com/in/emilia-masiak-151787251/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="https://www.youtube.com/c/emka5885" target="blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+<a href="https://www.youtube.com/channel/UCV8P9nrCmydvND3WAt0d5og" target="blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
 </p>
 
 <!--
