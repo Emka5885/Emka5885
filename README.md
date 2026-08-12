@@ -7,7 +7,7 @@
   <img
     src="https://raw.githubusercontent.com/Emka5885/Emka5885/main/assets/screen_main_desktop.gif"
     width="100%"
-    alt="Game-inspired GitHub profile main menu">
+    alt="Main Menu - game-inspired profile navigation.">
 </picture>
 
 <p align="center">
@@ -35,7 +35,7 @@
   <img
     src="https://raw.githubusercontent.com/Emka5885/Emka5885/main/assets/screen_load_desktop.svg"
     width="100%"
-    alt="Load Game screen describing four sides of the profile">
+    alt="Load Game - a quick overview of my profile and approach.">
 </picture>
 
 <p align="right">
@@ -54,7 +54,7 @@
   <img
     src="https://raw.githubusercontent.com/Emka5885/Emka5885/main/assets/screen_tools_desktop.svg"
     width="100%"
-    alt="Stats screen with languages and tools skill inventory">
+    alt="Stats - languages, tools and technologies I work with.">
 </picture>
 
 <p align="right">
@@ -73,7 +73,7 @@
   <img
     src="https://raw.githubusercontent.com/Emka5885/Emka5885/main/assets/screen_projects_desktop.svg"
     width="100%"
-    alt="Credits screen with featured projects">
+    alt="Credits - selected projects and things I've built.">
 </picture>
 
 <p align="center">
@@ -95,13 +95,14 @@
 </p>
 
 
-<p align="left">
+<p align="center">
 &emsp; &nbsp; <a href="https://www.linkedin.com/in/emilia-masiak-151787251/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.youtube.com/channel/UCV8P9nrCmydvND3WAt0d5og" target="blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
 </p>
 
-<p align="right">
-  <sub>This profile README is built as a tiny game interface, inspired by where my programming journey began.</sub>
+> [!WARNING]
+> <p align="left"><sub>If the interactive README does not load correctly, <a href="./assets/profile_overview.svg">click here for the full static view</a>.</sub></p>
+
+<p align="left">
+  <sub><i>This profile README is built as a tiny game interface, inspired by where my programming journey began.</i></sub>
 </p>
-
-
